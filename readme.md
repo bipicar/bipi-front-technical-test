@@ -1,5 +1,5 @@
 ## BIPI - FRONT
-Deberá crear un proyecto nuevo en Vue.js + SASS haciendo uso de los datos dentro del fichero `vehicles.json` y usando como guía de estilo las pantallas según los mockups proporcionados [Desktop](https://projects.invisionapp.com/prototype/Prueba-mobile-ck7khxvl4004ofk012gmeoqpt) y [Mobile](https://projects.invisionapp.com/prototype/Prueba-mobile-ck7khxvl4004ofk012gmeoqpt). El proyecto tiene que incluir:
+Deberá crear un proyecto nuevo en Vue.js + SASS haciendo uso de los datos dentro del fichero `vehicles.json` y usando como guía de estilo las pantallas según los mockups proporcionados [Desktop](https://projects.invisionapp.com/prototype/Prueba-desktop-ck7khwo340051ey01mra7vqef) y [Mobile](https://projects.invisionapp.com/prototype/Prueba-mobile-ck7khxvl4004ofk012gmeoqpt). El proyecto tiene que incluir:
 
 - Una vista catálogo donde se mostrarán todos los vehículos disponibles.
 - Al pulsar sobre cada vehículo llevará a la vista de detalle.
